@@ -7,8 +7,8 @@
 This project aims to build a Wine quality Prediction system using the Machine Learning algorithm - Random Forest Classifier 
 
 # Data Sources
-The primary dataset used for this analysis is the multivariate type of dataset "wine quality" file. The dataset is publicly available on link - https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
-The model predicts the quality of wine based on physicochemical tests  (fixed acidity, citric acid) and the output variable is 'qyuality' (score between 0 and 10)  
+The primary dataset used for this analysis is the multivariate type of dataset "wine quality" file. The dataset is publicly available on the link - https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
+The model predicts the quality of wine based on physicochemical tests  (fixed acidity, citric acid) and the output variable 'quality' (score between 0 and 10)  
 
 
 # Tools
